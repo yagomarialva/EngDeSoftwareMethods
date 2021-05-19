@@ -17,4 +17,6 @@ classe Client que aplica o metodo Adapter de classe
 ![image](https://user-images.githubusercontent.com/13953902/118897006-8132c680-b8d7-11eb-98b1-d727ea415a8c.png)
 
 Resultado:
+
+
 ![image](https://user-images.githubusercontent.com/13953902/118897125-ab848400-b8d7-11eb-81c9-9f8811124599.png)
