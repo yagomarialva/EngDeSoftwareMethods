@@ -20,3 +20,15 @@ Resultado:
 
 
 ![image](https://user-images.githubusercontent.com/13953902/118897125-ab848400-b8d7-11eb-81c9-9f8811124599.png)
+
+#Padrões de projeto
+
+Na engenharia de software, um padrão de projeto é uma solução geral que pode ser repetida para um problema comum de projeto de software. Um padrão de projeto não é um projeto acabado que pode ser transformado diretamente em código. É uma descrição ou modelo de como resolver um problema que pode ser usado em muitas situações diferentes.
+
+O Factory Method é um padrão de design de criação que fornece uma interface para a criação de objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objetos que serão criados.
+
+![image](https://user-images.githubusercontent.com/13953902/119735952-150e1080-be4b-11eb-96ce-ffb5071237fe.png)
+
+Resultado:
+
+![image](https://user-images.githubusercontent.com/13953902/119736030-27884a00-be4b-11eb-8aca-a6efb402f150.png)
